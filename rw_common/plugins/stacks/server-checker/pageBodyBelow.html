@@ -1,0 +1,18 @@
+<!-- %%[[if preview]]%% -->
+<link href="%siteAssetPath%/server-checker/checker.css?rwcache=692578503" rel="stylesheet">
+<script>
+(function () {
+if ("undefined" == typeof window.servercheckerpath) {
+    const baseurl  = '%baseURL%/'.replace(/\/\/$/,'/');
+    if (baseurl.length <= 1) {
+        console.warn("Server Checker: BaseURL for this project is not set.");
+        return;
+    }
+    window.servercheckerpath = `${baseurl}rw_common/plugins/stacks/server-checker/`;
+    const script = document.createElement('script');
+    script.src = "%siteAssetPath%/server-checker/checker.js";
+    document.write(script.outerHTML);
+}
+}());
+</script>
+<!-- %%[[endif]]%% -->

@@ -1,0 +1,92 @@
+.seam{background-color:transparent;width:100%;overflow:hidden}.seam svg{display:block;-webkit-transform:scale(1.05);transform:scale(1.05)}.seam-top{z-index:1;position:absolute;top:0}.seam-bottom{z-index:1;position:absolute;bottom:0}.seam-content-wrapper{position:relative;overflow:hidden}.seam-content-wrapper .seam,.seam-content-wrapper .seam-filler{position:absolute;width:100%;top:60%}.seam-content-wrapper .seam{-webkit-transform:translateY(-100%) scale(1.01);transform:translateY(-100%) scale(1.01)}.seam-content-wrapper .seam-filler{height:100%}.seam-animate-end{visibility:hidden}
+.com_joeworkman_stacks_shareit_simple_stack a.shareit,.com_joeworkman_stacks_shareit_simple_stack i.fa{text-decoration:none;-webkit-transition:color 300ms ease 0;transition:color 300ms ease 0}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-facebook,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-facebook-square{color:#3B5998}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-facebook:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-facebook-square:hover{color:#3B5998}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-twitter,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-twitter-square{color:#09AEEC}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-twitter:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-twitter-square:hover{color:#09AEEC}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-google-plus,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-google-plus-square{color:#EE0000}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-google-plus:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-google-plus-square:hover{color:#EE0000}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-adn{color:#4A484C}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-adn:hover{color:#4A484C}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-pinterest,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-pinterest-square{color:#CB2027}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-pinterest:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-pinterest-square:hover{color:#CB2027}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-linkedin,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-linkedin-square{color:#257597}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-linkedin:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-linkedin-square:hover{color:#257597}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-envelope,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-envelope-o{color:#26A14B}.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-envelope:hover,.com_joeworkman_stacks_shareit_simple_stack a.default-colors i.fa-envelope-o:hover{color:#26A14B}
+
+
+
+.spacerStack {
+	height: 40.00px;
+}
+
+#spacerStackstacks_in_84 {
+	height: 40.00px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print {
+	#spacerStackstacks_in_84 {
+		display: none !important;
+	}
+}
+
+#stacks_in_84 {
+	margin: 50px 0px 0px 0px;
+}
+  
+
+
+.spacerStack {
+	height: 40.00px;
+}
+
+#spacerStackstacks_in_85 {
+	height: 40.00px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print {
+	#spacerStackstacks_in_85 {
+		display: none !important;
+	}
+}
+
+#stacks_in_85 {
+	margin: 15px 0px 0px 0px;
+}
+#stacks_in_69{text-align:center}#stacks_in_69 a.shareit{text-align:center;font-size:18px;color:rgba(255, 255, 255, 1.00)}#stacks_in_69 a.shareit:hover{color:rgba(97, 171, 235, 1.00)}#stacks_in_69 a.shareit i.fa{font-size:24px}#stacks_in_69 a.shareit:not(.default-colors) i.fa{color:rgba(255, 255, 255, 1.00)}#stacks_in_69 a.shareit:not(.default-colors):hover i.fa{color:rgba(97, 171, 235, 1.00)}
+#stacks_in_75{text-align:center}#stacks_in_75 a.shareit{text-align:center;font-size:18px;color:rgba(255, 255, 255, 1.00)}#stacks_in_75 a.shareit:hover{color:rgba(97, 171, 235, 1.00)}#stacks_in_75 a.shareit i.fa{font-size:24px}#stacks_in_75 a.shareit:not(.default-colors) i.fa{color:rgba(255, 255, 255, 1.00)}#stacks_in_75 a.shareit:not(.default-colors):hover i.fa{color:rgba(97, 171, 235, 1.00)}
+#stacks_in_76{text-align:center}#stacks_in_76 a.shareit{text-align:center;font-size:18px;color:rgba(255, 255, 255, 1.00)}#stacks_in_76 a.shareit:hover{color:rgba(97, 171, 235, 1.00)}#stacks_in_76 a.shareit i.fa{font-size:24px}#stacks_in_76 a.shareit:not(.default-colors) i.fa{color:rgba(255, 255, 255, 1.00)}#stacks_in_76 a.shareit:not(.default-colors):hover i.fa{color:rgba(97, 171, 235, 1.00)}
+#stacks_in_77{text-align:center}#stacks_in_77 a.shareit{text-align:center;font-size:18px;color:rgba(255, 255, 255, 1.00)}#stacks_in_77 a.shareit:hover{color:rgba(97, 171, 235, 1.00)}#stacks_in_77 a.shareit i.fa{font-size:24px}#stacks_in_77 a.shareit:not(.default-colors) i.fa{color:rgba(255, 255, 255, 1.00)}#stacks_in_77 a.shareit:not(.default-colors):hover i.fa{color:rgba(97, 171, 235, 1.00)}
+
+#stacks_in_29 {
+	padding: 25px 0px 0px 0px;
+}
+
+#stacks_in_82 {
+	padding:  20px;
+}

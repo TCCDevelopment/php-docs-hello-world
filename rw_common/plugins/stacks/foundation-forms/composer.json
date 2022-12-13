@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mustache/mustache": "^2.12",
+        "league/csv": "^9.4",
+        "league/commonmark": "^1.0",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}

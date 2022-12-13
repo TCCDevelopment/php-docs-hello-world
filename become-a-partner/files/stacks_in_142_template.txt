@@ -1,0 +1,7 @@
+### This is my template
+
+It can contain _markdown_.
+
+{{{fields}}}
+
+The above macro will insert data from all fields in a formatted list.
